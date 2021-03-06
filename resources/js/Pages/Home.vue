@@ -1,9 +1,13 @@
 <template>
-   <h1>TESTTTS</h1>
+   <div>
+      <h1>TEST</h1>
+   </div>
 </template>
 
-<script>
-    export default {
 
-    }
+<script>
+export default {
+
+}
 </script>
+

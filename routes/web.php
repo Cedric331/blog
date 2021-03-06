@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::inertia('/', 'Home')->name('home');
+Route::get('/', 'HomeController@home')->name('home');
